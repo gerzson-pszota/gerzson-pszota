@@ -8,13 +8,6 @@ I'm available for work in Budapest or remote. <a href="https://github.com/gerzso
 - **Version Control:** Well-versed in using Git for efficient and collaborative development.
 - **Database:** Skilled in SQL for database design, querying, and management.
 - **Project Management:** Familiar with Jira and experienced in working within Agile/Scrum methodologies.
-
-## 📚 Education
-
-- Green Fox Academy & Code Cool  
-[super intensive bootcamps, focousing on Java Backend]
   
 ## [![CodeWars](https://www.codewars.com/users/gerzson.pszota/badges/large)](https://www.codewars.com/users/gerzson.pszota/)  
 ❓Why do Java developers wear glasses? Because they don't C#
-
-
