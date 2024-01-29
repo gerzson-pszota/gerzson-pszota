@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Gerzson, Junior Java Dev.  
+❓Why do Java developers wear glasses? Because they don't C#
 I'm available for work in Budapest or remote. <a href="https://github.com/gerzson-pszota/CV/files/14076252/Gerzson.Pszota.CV.pdf" target="_blank">Click here for my CV</a>
 
 ## 🛠️ Skills
@@ -10,4 +10,3 @@ I'm available for work in Budapest or remote. <a href="https://github.com/gerzso
 - **Project Management:** Familiar with Jira and experienced in working within Agile/Scrum methodologies.
   
 ## [![CodeWars](https://www.codewars.com/users/gerzson.pszota/badges/large)](https://www.codewars.com/users/gerzson.pszota/)  
-❓Why do Java developers wear glasses? Because they don't C#
