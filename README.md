@@ -1,4 +1,4 @@
 ## Java Developer  
 Backend | SpringBoot | Hibernate | MySQL | Jira | Scrum & Agile | Git | Gradle | Docker | RESTful APIs | Continuous Integration  
-💻 I'm available for work in Budapest or remote. <a href="https://github.com/gerzson-pszota/CV/files/14234151/GerzsonPszotaCV.pdf" target="_blank">Click here to download my CV</a>
+💻 I'm available for work in Budapest or remote. [[click here to see my portfolio]](https://gerzson-pszota.netlify.app/)  
 ## [![CodeWars](https://www.codewars.com/users/gerzson.pszota/badges/large)](https://www.codewars.com/users/gerzson.pszota/)  
